@@ -1,0 +1,19 @@
+.NavBar-nav {
+    background-color: lightcoral;
+    color: white;
+}
+
+.NavBar-nav a{
+    margin: 1rem;
+    padding: 0.5em 0;
+    width: 10em;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+}
+
+.NavBar-nav a.active {
+    font-weight: bold;
+    color: black;
+  }
+
